@@ -53,3 +53,47 @@
     font-size: 32px;
     font-weight: 400;
 }
+
+/* 65% section style starts here */
+.first-section-container{
+    max-width: 802.9px;
+    height: 806px;
+    margin: 0 auto;
+    margin-top: 90px;
+}
+
+.first-section-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.first-section-content h1{
+    font-size: 88px;
+    font-weight: 700;
+    color: rgb(255, 0, 0);
+    margin-bottom: 30px;
+}
+
+.first-section-content p{
+    font-size: 24px;
+    font-weight: 500;
+    color: rgb(255, 0, 0);
+}
+
+.first-section-content h3{
+    font-size: 48px;
+    font-weight: 700;
+    color: rgb(7, 2, 17);
+}
+.image-container{
+    height: 500;
+    width: 802.9px;
+    margin-top: 47px;
+}
+
+.image-container img{
+    height: 100%;
+    width: 100%;
+}
